@@ -1,6 +1,6 @@
-import one from "./amber@2x.png";
-import two from "./blue@2x.png";
-import three from "./cyan@2x.png";
+import one from "./bananaArtboard 8-8.png";
+import two from "./Frame (18).png";
+import three from "./Frame (18).png";
 import four from "./emerald@2x.png";
 import five from "./fuscia@2x.png";
 import six from "./green@2x.png";
